@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Terry Prokop
-tagline:             A journey into Data Science blog
+tagline:             Journey into Data Science blog
 url:                 https://toko258.github.io
 paginate:            2
 baseurl:             ""
@@ -30,7 +30,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
-
+  - jekyll-theme-lanyon
 # Page List
 pages_list:       
   About: '/about'
