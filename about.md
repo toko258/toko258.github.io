@@ -3,11 +3,16 @@ layout: page
 title: About
 ---
 
+This is [one of my favorite places!](https://unsplash.com/photos/udSPh12VjgE)
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there!
+  Carry on!
 </p>
 
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+
+This is [one of my favorite places!](https://unsplash.com/photos/udSPh12VjgE)
 
 There are currently two themes built on Poole:
 
