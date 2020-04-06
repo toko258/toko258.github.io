@@ -6,7 +6,7 @@ If you need [a vision of paradise, try this on for size!](https://unsplash.com/p
 
 For kolaches or a cold Lone Star in Savannah, GA, you [could swing by this establishment.](https://www.foxyloxycafe.com)
 
-El Toro de Beisbol![click here --->](https://www.flossmoorbbsb.com/page/show/3735828-photo-book)
+El Toro de Beisbol![Flossmoor Baseball and Softball](https://www.flossmoorbbsb.com/page/show/3735828-photo-book)
 
 
 *Let's see if we can make this happen. This is a test, 999, 555, 444.
