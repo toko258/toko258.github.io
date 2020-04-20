@@ -1,7 +1,7 @@
   In this post I will explore some of the issues regarding modeling and the current Covid-19 pandemic.  I will focus on the issue
 of the assumptions used, and the issues regarding public policy implementation based on the findings of the modeling.
   All information provided in this review is current as of Sunday, April 19th, 2020, and is primarily obtained from 
-  healthdata.org (the IHME website), worldometers.com, and reliable news sources (NYTimes, WashingtonPost,ChicagoTribune,CNN.com).
+  healthdata.org (the IHME website), worldometers.com, statista.com, CDC.gov, and reliable news sources.
   One metric that modeling is highly concerned with is attempting to predict a peak in new cases of infection, and also daily fatalities 
   from Covid-19.  One update made on April 13th contained this interesting statement: "The duration of COVID-19 epidemic peaks appears to vary widely across locations 
   (e.g., some experience a sharp peak, while others seem to experience a flatter peak where similar peak daily COVID-19 deaths 
