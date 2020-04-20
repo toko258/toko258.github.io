@@ -13,7 +13,7 @@ of the assumptions used, and the issues regarding public policy implementation b
   
   One parameter which was truly unknown was the ratio of expected deaths to diagnosed cases:  for every 100 people who become ill
   from the Covid-19 virus, how many would die.  Initially it was assumed that 1 to 4 people would not survive, indicating a fatal rate
-  of 1%-4%.  A quick examination of the current data reveals an even wider range of outcomes: of countries reporting over 100K diagnosed
+  of 1%-4%.  A study from 3/31/2020 published in The Lancet reported an estimated fatal rate of 3.67%.  A quick examination of the current data reveals an even wider range of outcomes: of countries reporting over 100K diagnosed
   cases of Covid-19, the range of fatal rates is 3.1% in Germany to 13.2% in Italy.  The U.S., with a dataset over 3X that of any other country,
   is revealing a fatal rate of 5.3%.  This is based on over 750K diagnosed cases.
   
